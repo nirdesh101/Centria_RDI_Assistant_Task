@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fingrid Dashboard
 
 ## 📦 Getting Started
