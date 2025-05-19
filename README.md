@@ -1,32 +1,33 @@
-# Fingrid Dashboard
+# 🔌 Fingrid Dashboard
 
-## 📦 Getting Started
+## 🚀 Getting Started
 
-### Clone the Repository
+### 📥 Clone the Repository
 
-You can clone this repository using SSH or HTTPS:
+You can clone this repository using **SSH** or **HTTPS**:
 
-**Using SSH:**
-```bash
-git clone git@github.com:your-username/your-repo.git
-````
-
-**Using HTTPS:**
+**SSH:**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone git@github.com:nirdesh101/fingriddashboard.git
 ```
 
-### Install Dependencies
+**HTTPS:**
 
-After cloning the repository, navigate into the project folder and install the dependencies:
+```bash
+git clone https://github.com/nirdesh101/fingriddashboard.git
+```
+
+### 📦 Install Dependencies
+
+Navigate to the project folder and install the required packages:
 
 ```bash
 cd fingriddashboard
 npm install
 ```
 
-### Run the Application
+### ▶️ Run the Application
 
 Start the development server:
 
@@ -34,7 +35,7 @@ Start the development server:
 npm run dev
 ```
 
-Once running, open your browser and go to:
+Then open your browser and go to:
 
 ```
 http://localhost:5173
@@ -44,32 +45,29 @@ You should now see the application running.
 
 ---
 
-## 🧰 Stack Used
+## 🛠️ Tech Stack
 
-* **Frontend Library:** React
-* **Styling:** Tailwind CSS
-* **Language:** JavaScript
-* **Data Fetching:** TanStack Query (React Query)
+| Tool                             | Description                 |
+| -------------------------------- | --------------------------- |
+| **React**                        | Frontend UI library         |
+| **Tailwind CSS**                 | Utility-first CSS framework |
+| **JavaScript**                   | Programming language        |
+| **TanStack Query (React Query)** | Data fetching & caching     |
 
 ---
 
-## 📂 For Local Use (ZIP Download)
+## 💻 For Local Use (ZIP Download)
 
-If you've downloaded the project as a ZIP file:
+If you're running the app from a **zipped folder**:
 
-1. **Extract** the zipped folder.
+1. **Extract** the ZIP file.
+2. **Open** the project folder in **VS Code** or another code editor.
+3. Install dependencies and run the app:
 
-2. **Open** the folder in **VS Code** (or your preferred code editor).
+```bash
+npm install
+npm run dev
+```
 
-3. Run:
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-   ```bash
-   npm install
-   npm run dev
-   ```
-
-4. Open your browser and visit:
-
-   ```
-   http://localhost:5173
-   ```
